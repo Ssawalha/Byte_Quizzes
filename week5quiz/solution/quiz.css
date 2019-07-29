@@ -1,0 +1,25 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial;
+    padding: 10px;
+    background: #755beb
+}
+
+.header {
+    padding-left: 50px;
+    text-decoration: underline;
+}
+
+.row {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.imageborder{
+    background-color: red;
+    width: 370px;
+    padding: 10px;
+}
